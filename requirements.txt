@@ -6,14 +6,3 @@ faker
 plotly
 networkx
 scikit-learn
-datetime
-uuid
-json
-re
-random
-hashlib
-base64
-io
-textwrap
-collections
-typing
